@@ -1,4 +1,4 @@
-# moment-sample
+# vue-moment-sample
 
 ## Project setup
 ```
